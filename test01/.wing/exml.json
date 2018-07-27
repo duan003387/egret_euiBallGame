@@ -1,0 +1,25 @@
+{
+  "164b1012efa": {
+    "path": "..\\resource\\eui_skins\\btn.ts",
+    "class": "btn",
+    "parentPath": "resource/eui_skins/ButtonSkin.exml"
+  },
+  "164b1a57c80": {
+    "path": "..\\resource\\eui_skins\\ball.ts",
+    "class": "ball",
+    "parentPath": ""
+  },
+  "164b1a64dfa": {
+    "path": "..\\resource\\eui_skins\\ball.ts",
+    "class": "ball",
+    "parentPath": ""
+  },
+  "164c522ae08": {
+    "path": "..\\resource\\gameSkins\\ball.ts",
+    "class": "ball",
+    "parentPath": ""
+  },
+  "global": {
+    "globalAutoLayerMarkEnable": true
+  }
+}
